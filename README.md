@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Yatharth Singhal
 
 🎓 **B.Tech CSE (Artificial Intelligence)** Student at **Galgotias University**
+
      🚀Currently Working With CodSoft As a AI INTERN 🤖
 
 💻 Passionate about Artificial Intelligence, Python, and Software Development.
