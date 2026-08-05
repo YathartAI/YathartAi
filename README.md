@@ -24,7 +24,14 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies                                                                               🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+
+</p>
+
 
 <p align="center">
 
@@ -52,15 +59,6 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
-
-</p>
-
----
 
 ## 🚀 Current Focus
 
@@ -71,7 +69,8 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats                                                    
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YathartAI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -95,13 +94,7 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
-## 📅 Contribution Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/YathartAI" alt="GitHub Contribution Chart"/>
-</p>
-
----
 ## 🤝 Connect With Me
 
 <p align="left">
