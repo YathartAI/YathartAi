@@ -70,6 +70,15 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 - 📚 Improving Problem-Solving Skills
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YathartAI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -80,6 +89,19 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/YathartAI/YathartAI/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/YathartAI" alt="GitHub Contribution Chart"/>
+</p>
+
+---
 ## 🤝 Connect With Me
 
 <p align="left">
