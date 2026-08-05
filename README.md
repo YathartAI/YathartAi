@@ -100,6 +100,16 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YathartAI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
 ## 💬 Quote
 
 > **"Great software isn't built in a day—it's built one commit at a time."** 🚀
