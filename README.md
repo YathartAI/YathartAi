@@ -69,11 +69,30 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 
 ---
 
+## 🏅 Certifications & Learning
+
+- **Google** — Introduction to Generative AI
+- **AWS** — Prompt Engineering
+- **IBM** — Fundamentals of Artificial Intelligence
+- **TCS iON** — Communication Skills
+- **AI Readiness / AI Foundation** — Foundation in Artificial Intelligence
+- **Coursera** — AI & Generative AI Learning
+
+---
+
 ## 📊 GitHub Stats                                                    
 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YathartAI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YathartAI&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
