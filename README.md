@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth Singhal</h1>
 
 <h3 align="center">
-B.Tech CSE (Artificial Intelligence) Student | AI & Software Development Enthusiast
+🚀B.Tech CSE (Artificial Intelligence) Student | Aspiring AI Engineer 
 </h3>
 
 <p align="center">
@@ -16,11 +16,17 @@ B.Tech CSE (Artificial Intelligence) Student | AI & Software Development Enthusi
 
 💡 Passionate about **Artificial Intelligence, Python, and Software Development**
 
-🌱 Currently expanding my knowledge in programming, problem-solving, and AI technologies.
+🌱 Currently expanding my knowledge in programming, problem-solving, and AI technologies.  
 
-🎯 **Career Goal**
+----
 
-To become an AI Engineer who develops intelligent, scalable, and impactful software solutions.
+ ##🎯 My Goals 
+
+• Build Strong Foundation in Programming and Computer Science 
+• Develop exciting Ai and machine Learning Projets
+• Improve my data Strutures & Algorithms Skills 
+• participate In Hackathons And Coding Competitions 
+• Become A Skilled AI ENGINEER 
 
 ---
 
@@ -52,7 +58,7 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 ## 🚀 Currently Learning
 
 - 🐍 Python
-- 💻 C Programming
+- 💻 C & C++ Programming
 - 🌿 Git & GitHub
 - 🧠 Artificial Intelligence
 - 📚 Data Structures & Algorithms
@@ -141,6 +147,7 @@ To become an AI Engineer who develops intelligent, scalable, and impactful softw
 <img src="https://komarev.com/ghpvc/?username=YathartAI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
 
 ---
 
