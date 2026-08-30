@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yatharth Singhal</h1>
 
 <h3 align="center">
-🚀B.Tech CSE (Artificial Intelligence) Student | Aspiring AI Engineer 
+🚀B.Tech in  Computer Science and Engineering  (Artificial Intelligence) Student | Aspiring AI Engineer 
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech CSE (Artificial Intelligence)** at **Galgotias University**
+🎓 **B.Tech in Computer Science and Engineering  (Artificial Intelligence)** at **Galgotias University**
 
 💡 Passionate about **Artificial Intelligence, Python, and Software Development**
 
@@ -86,23 +86,15 @@
 
 ---
 
-## 📊 GitHub Stats                                                    
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YathartAI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YathartAI&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YathartAI&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YathartAI&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p> 
 
 ---
-
+   
 ## 🔥 GitHub Streak
 
 <p align="center">
